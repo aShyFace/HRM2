@@ -21,7 +21,7 @@
       <spring.version>5.2.5.RELEASE</spring.version>
       <jackson.version>2.10.3</jackson.version>
       <junit.vesion>5.2.0</junit.vesion>
-      <log4j.version>2.8</log4j.version>
+      <log4j.version>2.16.0</log4j.version>
   </properties>
 
   <dependencies>
